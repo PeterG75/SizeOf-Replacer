@@ -1,6 +1,6 @@
 # SizeOf-Replacer
 SizeOf Replacer for .NET applications.
-
+![](https://img.shields.io/github/v/tag/Rhotav/SizeOf-Replacer.svg)![](https://img.shields.io/github/v/release/Rhotav/SizeOf-Replacer.svg)
 ## Features
 - Deobfuscates SizeOf Obfuscated Executables
 - Support 8 SizeOf type
